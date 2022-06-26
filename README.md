@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Kumar</h1>
 <h3 align="center">A Full Stack Web Developer From India.</h3>
 
-<p align="right"> <img src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" width = "200px"/> </p>
+<!-- <p align="right"> <img src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" width = "200px"/> </p> -->
 
 - 🌱 I’m currently learning **React.js**
 
